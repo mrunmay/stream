@@ -21,7 +21,7 @@ Stream concepts
         ** Comparator : Customize your sorting order
 
         *  Default is in Ascending order
-        ** For customized Descnding Order(**)
+        ** For customized Descnding Order
             . returns +ve if and only obj1 has to come after obj2
             . returns -ve if and only obj1 has to come before obj2
             . returns 0 if and only obj1 & obj2 are same
